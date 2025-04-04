@@ -1,4 +1,4 @@
-# Poetry_Club_Door_Policy
+# Poetry Club Door Policy
 
 This is an [Exercism.org](https://exercism.org/) exercise on JavaScript.  
 
